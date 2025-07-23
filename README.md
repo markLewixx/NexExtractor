@@ -1,27 +1,28 @@
-# NexExtractor
-ChatGPT said: This automation uses Puppeteer to extract business details like name, reviews, and website from Google Maps based on niche searches. It's designed to help identify businesses without websites for lead generation and outreach.
+🚀 NexExtractor
+NexExtractor is a powerful automation tool built with Puppeteer that helps you uncover businesses on Google Maps—especially those without websites or with a weak online presence.
 
+It works by searching for businesses in specific niches and pulling valuable details like:
 
-This automation script uses Puppeteer to scrape business details from Google Maps based on niche-specific search queries. It extracts valuable information such as:
+🏢 Business Name
 
-Business name
+🌟 Number of Reviews
 
-Number of reviews
+📍 Location
 
-Location
+🌐 Website (if available)
 
-Website (if available)
+☎️ Phone Number (if listed)
 
-Phone number (if listed)
+🎯 Why Use NexExtractor?
+Finding potential clients manually is time-consuming. NexExtractor automates the entire process, making it ideal for:
 
-The goal is to help identify businesses that do not have websites or have poor online presence, making it useful for:
+🧑‍💻 Web design agencies looking for clients who need websites
 
-Web agencies prospecting new clients
+📈 Digital marketers targeting businesses with poor visibility
 
-Digital marketers identifying leads
+🤝 B2B outreach and lead generation
 
-B2B outreach campaigns
+🔍 Niche market research and analysis
 
-Niche market research
-
-By automating the discovery process, this tool saves time and provides a structured list of potential leads for outreach.
+💡 How It Helps
+Instead of clicking through listings one by one, NexExtractor gives you a ready-made list of potential leads—organized and easy to act on. It’s your digital scout for uncovering business opportunities.
