@@ -241,4 +241,4 @@ async function run() {
   console.log("We are done here");
 }
 
-run();
+export default run;
